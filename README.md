@@ -1,4 +1,4 @@
-# MakeMe VPN website
+# Static website starter
 Static website starter kit. Uses handlebars, sass, paper bootstrap. 
 Templating strings are stored in config.json.
 Don't edit the dist files - edit src files and compile.
