@@ -1,0 +1,10 @@
+{
+  "siteUrl": "http://example.com/",
+  "templateData": {
+    "seo": {
+      "title": "Page title",
+      "description": "SEO description",
+      "keywords": "SEO keywords"
+    }
+  }
+}

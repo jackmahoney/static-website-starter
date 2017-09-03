@@ -1,0 +1,25 @@
+{
+  "name": "makemevpn-website",
+  "version": "1.0.0",
+  "description": "[Full](http://startbootstrap.com/template-overviews/full/) is full page background image HTML starter template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sitemap": "^4.2.0",
+    "gulp-uglifycss": "^1.0.8",
+    "pump": "^1.0.2",
+    "run-sequence": "^2.1.0"
+  },
+  "devDependencies": {
+    "gulp-compile-handlebars": "^0.6.1"
+  }
+}
